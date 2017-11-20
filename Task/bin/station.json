@@ -1,0 +1,22 @@
+[
+	{
+		"stationName":"MySSID",
+		"power":-10
+	},
+	{
+		"stationName":"Appolica",
+		"power":-15
+	},
+	{
+		"stationName":"MySSID",
+		"power":-1
+	},
+	{
+		"stationName":"Appolica",
+		"power":-5
+	},
+		{
+		"stationName":"Appolica",
+		"power":-50
+	}
+]
